@@ -1,6 +1,6 @@
 # Bitcoin Exchange Matching Engine
 
-This is an attempt to learn about financial markets and the technology powering them by building a matching engine for a hypothetical bitcoin exchange.
+This is an ongoing attempt to learn about financial markets and the technology powering them by building a matching engine for a hypothetical bitcoin exchange.
 
 The matching engine is the core component of every financial exchange. It is responsible for matching buy and sell orders in real-time, determining the price and volume of each trade, and maintaining an orderly market.
 
